@@ -1,3 +1,5 @@
+[![Header](header.png "Header")](https://some-url.dev/)
+
 ### Hi there 👋
 
 <!--
@@ -15,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
 My name is Zeyu(Sisi) Dong. I am passionate about data analysis and digital media, which can be shown by my continuous internships in these two areas. Currently, I am looking for a position of Data Analysis or Data Scientist. I believe my skills in Python, SQL, Tableau, Power BI, Excel, and so on, make me a strong fit for being a data expert.
+
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)

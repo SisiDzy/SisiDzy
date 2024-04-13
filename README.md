@@ -22,13 +22,38 @@ My name is Zeyu(Sisi) Dong. I am passionate about data analysis and digital medi
 ### What Can I Offer
 
 * Probability and Statistics
+  
+  ![](https://img.shields.io/badge/Convolution_Neural_Networks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  
 * Exploratory Data Analysis(Python, R)
+  
+  ![](https://img.shields.io/badge/Linear_Regression-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  
 * Data Visualization (R, Tableau)
+  
+  ![](https://img.shields.io/badge/Linear_Regression-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  
 * Database and Data Warehousing(SQL, NoSQL)
+  
+  ![](https://img.shields.io/badge/Linear_Regression-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  
 * Machine Learning
 
+  ![](https://img.shields.io/badge/Linear_Regression-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/Logistic_Regression-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/Ridge_Regression-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/Lasso_Regression-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/Decision_Tree-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
   ![](https://img.shields.io/badge/Support_Vector_Machine-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
-  * Linear Regression, Logistic Regression, Support Vector Machine, kNN, Decision Tree, Ensembles, RNN, CNN
+  ![](https://img.shields.io/badge/Ensembles-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/kNN-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/RNN-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/Convolution_Neural_Networks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  
 * Big Data (AWS, GCP, Spark, Airflow)
-* Data Structures(Python) and Algorithm
+  
+  ![](https://img.shields.io/badge/Convolution_Neural_Networks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+
 * Database design and web application
+  
+  ![](https://img.shields.io/badge/Convolution_Neural_Networks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)

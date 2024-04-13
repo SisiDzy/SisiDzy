@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+My name is Zeyu(Sisi) Dong. I am passionate about data analysis and digital media, which can be shown by my continuous internships in these two areas. Currently, I am looking for a position of Data Analysis or Data Scientist. I believe my skills in Python, SQL, Tableau, Power BI, Excel, and so on, make me a strong fit for being a data expert.

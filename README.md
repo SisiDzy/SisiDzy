@@ -1,41 +1,30 @@
 [![Header](header.png "Header")](https://some-url.dev/)
 
-### Hi there 👋
+### 👋 Hi There
 
-<!--
-**SisiDzy/SisiDzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Zeyu(Sisi) Dong. I am a graduate student learning Quantitative Methods in the Social Sciences (Data Science Track) at Columbia University and I graduate in May 2024. With 1 year experience of data analysis in different industries like consulting, technology, media, real estate investment, and academia, I have a broad understanding of how to tell a story through data and I am deeply passionate about organizing data for more insights.
 
-Here are some ideas to get you started:
+### 🌱 What Can I Offer
+  
+* Exploratory Data Analysis
+  
+  ![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)
+  ![](https://img.shields.io/badge/R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-My name is Zeyu(Sisi) Dong. I am passionate about data analysis and digital media, which can be shown by my continuous internships in these two areas. Currently, I am looking for a position of Data Analysis or Data Scientist. I believe my skills in Python, SQL, Tableau, Power BI, Excel, and so on, make me a strong fit for being a data expert.
-
-### What Can I Offer
+* Database Design and Data Warehousing
+  
+  ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/NoSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  
+* Data Visualization
+  
+  ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)
+  ![](https://img.shields.io/badge/Power_BI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)
 
 * Probability and Statistics
   
-  ![](https://img.shields.io/badge/Convolution_Neural_Networks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
-  
-* Exploratory Data Analysis(Python, R)
-  
-  ![](https://img.shields.io/badge/Linear_Regression-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
-  
-* Data Visualization (R, Tableau)
-  
-  ![](https://img.shields.io/badge/Linear_Regression-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
-  
-* Database and Data Warehousing(SQL, NoSQL)
-  
-  ![](https://img.shields.io/badge/Linear_Regression-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/Distribution-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)
   
 * Machine Learning
 
@@ -50,10 +39,18 @@ My name is Zeyu(Sisi) Dong. I am passionate about data analysis and digital medi
   ![](https://img.shields.io/badge/RNN-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
   ![](https://img.shields.io/badge/Convolution_Neural_Networks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
   
-* Big Data (AWS, GCP, Spark, Airflow)
+* Big Data
   
-  ![](https://img.shields.io/badge/Convolution_Neural_Networks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+  ![](https://img.shields.io/badge/Spark-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
 
-* Database design and web application
-  
-  ![](https://img.shields.io/badge/Convolution_Neural_Networks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=89cff0)
+### 📫 How To Reach Me
+
+I’m actively looking for a 2024 Full Time position in DS/DA. Welcome to reach me through Email (zd2326@columbia.edu) or LinkedIn ([Zeyu(Sisi) Dong](https://www.linkedin.com/in/zeyu-sisi-dong-b7ab5b26b))
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+

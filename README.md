@@ -64,7 +64,6 @@ My name is Zeyu(Sisi) Dong. I am a graduate student learning Quantitative Method
   ![](https://img.shields.io/badge/Random_Forest-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)
   ![](https://img.shields.io/badge/Support_Vector_Machine-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)
   ![](https://img.shields.io/badge/Ensemble_Models-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)
-  ![](https://img.shields.io/badge/Model_Evaluation-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)
   ![](https://img.shields.io/badge/K_Nearest_Neighbors-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)
   ![](https://img.shields.io/badge/Principal_Component_Analysis-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)
   ![](https://img.shields.io/badge/Convolution_Neural_Networks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C2C72)

@@ -84,5 +84,5 @@ My name is Zeyu(Sisi) Dong. I am a graduate student learning Quantitative Method
 
 ### 📫 How To Reach Me
 
-I’m actively looking for a 2024 Full Time position in DS/DA. Welcome to reach me through Email (zd2326@columbia.edu) or LinkedIn ([Zeyu(Sisi) Dong](https://www.linkedin.com/in/zeyu-sisi-dong-b7ab5b26b))
+I’m actively looking for a 2024 Full Time position in DA/DS. Welcome to reach me through Email (zd2326@columbia.edu) or LinkedIn ([Zeyu(Sisi) Dong](https://www.linkedin.com/in/zeyu-sisi-dong-b7ab5b26b))
 

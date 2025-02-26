@@ -2,7 +2,7 @@
 
 ### 👋 Hi There
 
-My name is Zeyu(Sisi) Dong. I am a graduate student learning Quantitative Methods in the Social Sciences (Data Science Track) at Columbia University and I graduated in May 2024. With years of experience in data analysis in different industries like consulting, technology, media, real estate investment, and academia, I have a broad understanding of how to tell a story through data and find patterns through modeling. In addition, I am passionate about managing data for more insights.
+My name is Zeyu(Sisi) Dong. I was a graduate student learning Quantitative Methods in the Social Sciences (Data Science Track) at Columbia University and I graduated in May 2024. With years of experience in data analysis in different industries like consulting, technology, media, real estate investment, and academia, I have a broad understanding of how to tell a story through data and find patterns through modeling. In addition, I am passionate about managing data for more insights.
 
 ### 🌱 What Can I Offer
   
@@ -84,5 +84,5 @@ My name is Zeyu(Sisi) Dong. I am a graduate student learning Quantitative Method
 
 ### 📫 How To Reach Me
 
-I’m actively looking for a 2024 Full Time position in DA/DS. Welcome to reach me through Email (zd2326@columbia.edu) or LinkedIn ([Zeyu(Sisi) Dong](https://www.linkedin.com/in/zeyu-sisi-dong-b7ab5b26b))
+I’m actively looking for a Full Time position in DA/DS. Welcome to reach me through Email (zd2326@columbia.edu) or LinkedIn ([Zeyu(Sisi) Dong](https://www.linkedin.com/in/zeyu-sisi-dong-b7ab5b26b))
 
